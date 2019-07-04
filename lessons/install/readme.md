@@ -37,7 +37,7 @@ import statsmodels
 import sklearn
 ```
 
-If you get the ### ModuleNotFoundError: No module named 'scipy',
+If you get the "ModuleNotFoundError: No module named 'scipy'",
 ```
 $ pip install scipy
 ```
@@ -53,7 +53,7 @@ $ pip install scipy
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Python 3 was installed because all HackerRank Python pre-work is configured for ***Python 3 only***
 
 ### Q2. Which Python Version Installed   
 
@@ -61,7 +61,7 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Python 3.7.3
 
  
 
