@@ -37,6 +37,12 @@ import statsmodels
 import sklearn
 ```
 
+If you get the ### ModuleNotFoundError: No module named 'scipy',
+```
+$ pip install scipy
+```
+
+
 ### Install [Homebrew](http://brew.sh/) on Mac 
 
 ---
